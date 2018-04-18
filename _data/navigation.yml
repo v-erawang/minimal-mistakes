@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://google.com
+  - title: "Games"
+    url: https://vbears.itch.io
+  - title: "Resume"
+    url: https://drive.google.com/file/d/1wdvYTfQAg4R5v0FZaBzwA3mGPDte8wHv/view?usp=sharing
+    
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -1,2 +1,5 @@
 source "https://rubygems.org"
-gemspec
+
+gem "minimal-mistakes-jekyll"
+gem	"jekyll-twitter-plugin"
+gem	"jekyll-archives"
