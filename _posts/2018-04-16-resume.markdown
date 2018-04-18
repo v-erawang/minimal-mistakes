@@ -7,4 +7,4 @@ categories:
 permalink: /resume/
 ---
 
-
+<iframe src="https://drive.google.com/file/d/1wdvYTfQAg4R5v0FZaBzwA3mGPDte8wHv/view?usp=sharing" width="100%" height="100%"></iframe>
